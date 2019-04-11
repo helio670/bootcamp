@@ -8,3 +8,8 @@ This is the GSFC Introductory Python Bootcamp course material and lectures.
 
 ### Setup
 The course is most effective if you follow along on your own computer. Please set up your computer prior to attending:  https://github.com/helio670/setup/
+
+### Agenda
+Agenda and course materials are here:  
+https://github.com/helio670/bootcamp/wiki
+(some of it is subject to change)
